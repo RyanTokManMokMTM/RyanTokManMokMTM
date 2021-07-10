@@ -10,7 +10,7 @@
 
 
 
-### MY 3D Design art work
+### MY 3D Design art work(Trying to learn more if i get some free time...)
 ![Axe](https://upload.cc/i1/2021/07/10/8BkzIH.png)
 ![human](https://i.ibb.co/ZB6mzy0/human.jpg)
 

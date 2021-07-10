@@ -5,7 +5,7 @@
 - ⚡ I like new things not just in computer science, especially 3D art and more...
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=outrun&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chizi-p&theme=outrun&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&layout=compact&theme=outrun)
 
 <!--

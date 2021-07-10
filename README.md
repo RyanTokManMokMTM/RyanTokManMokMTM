@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&title_color=#FF0000)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=outrun&show_icons=true)
 
 <!--
 **RyanTokManMokMTM/RyanTokManMokMTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

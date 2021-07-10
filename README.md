@@ -6,7 +6,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=great-gatsby&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&layout=compact&theme=great-gatsby)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&layout=compact&theme=great-gatsby) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby)
 
 

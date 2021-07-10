@@ -6,12 +6,11 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=great-gatsby&show_icons=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&layout=compact&theme=great-gatsby) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby)
 
 
 
-#### MY 3D Design art work
+### MY 3D Design art work
 ![Axe](https://upload.cc/i1/2021/07/10/8BkzIH.png)
 ![human](https://i.ibb.co/ZB6mzy0/human.jpg)
 

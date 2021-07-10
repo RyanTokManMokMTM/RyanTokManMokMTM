@@ -1,5 +1,5 @@
 
-- 🔭 一個玄選擇躺平的年輕人
+- 🤔 一個選擇躺平的年輕人
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=outrun&show_icons=true)

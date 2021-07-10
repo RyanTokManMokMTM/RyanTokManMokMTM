@@ -10,6 +10,8 @@
 
 #### MY 3D Design art work
 ![Axe](https://upload.cc/i1/2021/07/10/8BkzIH.png)
+![human](https://i.ibb.co/ZB6mzy0/human.jpg)
+
 
 <!--
 **RyanTokManMokMTM/RyanTokManMokMTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

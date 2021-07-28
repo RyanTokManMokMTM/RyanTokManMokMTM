@@ -3,9 +3,8 @@
 - 🤔 I’m looking for a thing i want to do, may be making a game but i don't know how to start ...
 - ⚡ I like learning new things not just in computer science, especially 3D art and more...
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby&layout=compact&langs_count=10)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=great-gatsby&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby)
 
 
 

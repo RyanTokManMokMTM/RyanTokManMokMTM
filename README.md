@@ -17,9 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/jackson_tmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jackson_tmm" height="30" width="40" /></a>
+<a href="https://fb.com/tok man mok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tok man mok" height="30" width="40" /></a>
 <a href="https://instagram.com/aka_jackson.tmm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aka_jackson.tmm_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user9154d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9154d" height="30" width="40" /></a>
 <a href="https://discord.gg/AKA_Jackson#7554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AKA_Jackson#7554" height="30" width="40" /></a>
 </p>
+
 
 
 ### MY 3D Design art work(Trying to learn more if i get some free time...)

@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackson,tmm</h1>
+<h3 align="center">一個Major Backend ,Sub FullStack的廢物இдஇ</h3>
+
 
 - 🔭 I’m currently studying backend technic(GoLang And NodeJs).
 - 👯 I’m playing with 3D art modeling, maya, Zbrush,unreal etc...

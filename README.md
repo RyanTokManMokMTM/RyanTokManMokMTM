@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jackson,tmm</h1>
+<h1 align="center">Hi 👋, I'm Jackson</h1>
 <h3 align="center">一個搞Back-end和3D Character modeling的廢物இдஇ</h3>
 
 

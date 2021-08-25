@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jackson</h1>
-<h3 align="center">一個什麼都不會的廢物இдஇ</h3>
+<h3 align="center">一個什麼都不會的廢物</h3>
 
 
 - 🔭 I’m currently studying backend technic(GoLang And NodeJs).

@@ -8,10 +8,12 @@
 - ⚡ I like learning new things not just in computer science, especially 3D art and more...
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&column=4&margin-w=15&margin-h=15)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&column=4&margin-w=15&margin-h=15) -->
+<img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby&layout=compact&langs_count=10)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=great-gatsby&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby&layout=compact&langs_count=10&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=great-gatsby&show_icons=true&count_private=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryantokmanmokmtm&theme=great-gatsby" alt="ryantokmanmokmtm" /></p>
 
 <h3 align="left">Focusing Language:</h3>

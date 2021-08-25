@@ -1,5 +1,8 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h3 align="center">一個什麼都不會的廢物</h3>
+
+--- 
+
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
@@ -8,10 +11,10 @@
 - 🤔 I’m looking for a thing i want to do, may be making a game but i don't know how to start ...
 - ⚡ I like learning new things not just in computer science, especially 3D art and more...
 
-
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&column=4&margin-w=15&margin-h=15) -->
 <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>
-
+<!-- 
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&column=4&margin-w=15&margin-h=15)
+ -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby&layout=compact&langs_count=10&count_private=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=great-gatsby&show_icons=true&count_private=true)

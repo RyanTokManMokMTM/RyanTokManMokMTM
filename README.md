@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jackson</h1>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h3 align="center">一個什麼都不會的廢物</h3>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 - 🔭 I’m currently studying backend technic(GoLang And NodeJs).
 - 👯 I’m playing with 3D art modeling, maya, Zbrush,unreal etc...

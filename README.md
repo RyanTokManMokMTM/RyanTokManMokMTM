@@ -12,9 +12,10 @@
 - ⚡ I like learning new things not just in computer science, especially 3D art and more...
 
 <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>
-<!-- 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&column=4&margin-w=15&margin-h=15)
- -->
+
+--- 
+
+<h3 align="left">Github-stats:</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby&layout=compact&langs_count=10&count_private=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=great-gatsby&show_icons=true&count_private=true)

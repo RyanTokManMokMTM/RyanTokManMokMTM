@@ -1,4 +1,4 @@
-<h3 align="center">一個什麼都不會的廢物</h3>
+<h3 align="center">Golang programmer</h3>
 
 --- 
 

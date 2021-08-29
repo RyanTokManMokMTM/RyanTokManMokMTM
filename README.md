@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="PNG" src="https://raw.githubusercontent.com/avelino/awesome-go/master/tmpl/assets/logo.png" />
 
 - 🔭 I’m currently studying backend technic(GoLang And NodeJs).
 - 👯 I’m playing with 3D art modeling, maya, Zbrush,unreal etc...

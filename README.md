@@ -12,6 +12,9 @@
 - ⚡ I like learning new things not just in computer science, especially 3D art and more...
 
 <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>
+<div width="100%" align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/adrianopteodoro/adrianopteodoro/gh-pages/gh-contrib-grid-snake.svg" />
+</div>
 
 --- 
 

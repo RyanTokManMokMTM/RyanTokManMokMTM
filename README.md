@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently studying backend technic(GoLang And NodeJs,CI/CD,DevOps).
 - 👯 I’m playing with 3D art modeling, maya, Zbrush,unreal etc...
-- 🤔 I’m looking for a thing i want to do, may be making a game but i don't know how to start ...
-- ⚡ I like learning new things not just in computer science, especially 3D art and more...
+
 
 <p align="center"><img src="https://mdimg.wxwenku.com/getimg/ccdf080c7af7e8a10e9b88444af983939e049e6e607c3da03772aac73059b882c9b79d1f3bc3640b77056d42927e4f18.jpg"/></p>
 <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>

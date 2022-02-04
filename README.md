@@ -4,13 +4,13 @@
  -->
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<img align="right" alt="PNG" src="https://raw.githubusercontent.com/avelino/awesome-go/master/tmpl/assets/logo.png" />
-
 - 🔭 I’m currently studying backend technic(GoLang And NodeJs,CI/CD,DevOps).
 - 👯 I’m playing with 3D art modeling, maya, Zbrush,unreal etc...
 
+<img align="right" alt="PNG" src="https://bytebucket.org/minux/goios/raw/01a32fb4abd84c75d9517c186be85205a385bf8d/doc/gopher/fiveyears.jpg" />
 
-<p align="center"><img src="https://mdimg.wxwenku.com/getimg/ccdf080c7af7e8a10e9b88444af983939e049e6e607c3da03772aac73059b882c9b79d1f3bc3640b77056d42927e4f18.jpg"/></p>
+
+<!-- <p align="center"><img src="https://mdimg.wxwenku.com/getimg/ccdf080c7af7e8a10e9b88444af983939e049e6e607c3da03772aac73059b882c9b79d1f3bc3640b77056d42927e4f18.jpg"/></p> -->
 <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>
 <div width="100%" align="center">
   <img width="100%" src="https://raw.githubusercontent.com/adrianopteodoro/adrianopteodoro/gh-pages/gh-contrib-grid-snake.svg" />

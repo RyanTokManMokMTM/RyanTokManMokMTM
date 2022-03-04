@@ -4,8 +4,8 @@
  -->
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-- 🔭 I’m currently studying backend technic(GoLang And NodeJs,CI/CD,DevOps).
-- 👯 I’m playing with 3D art modeling, maya, Zbrush,unreal etc...
+- 🔭 I’m studying backend technic(GoLang And NodeJs,CI/CD,DevOps).
+- 👯 in my free time, i also play with 3D modeling and anything i 'm interested in!
 
 <img align="right" alt="PNG" src="https://bytebucket.org/minux/goios/raw/01a32fb4abd84c75d9517c186be85205a385bf8d/doc/gopher/fiveyears.jpg" />
 

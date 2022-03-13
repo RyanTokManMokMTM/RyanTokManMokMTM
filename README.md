@@ -5,7 +5,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 - My name is **Jackson** who studies Computer Science and Information Engineering in CGU(Taiwan Chang Gung Unviverty)
-- I'm focusing on Backend technical with Golang
+- I'm currently focusing on Backend technical with Golang,DevOps, and every thing about web development
 - Not only computer science fields i interested in, and also 3D Creating art field i.e: game modeling, 3d character modeling etc...
 
 

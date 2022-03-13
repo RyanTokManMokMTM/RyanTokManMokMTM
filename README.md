@@ -4,8 +4,11 @@
  -->
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-- 🔭 I’m studying backend technic(GoLang And NodeJs,CI/CD,DevOps).
-- 👯 in my free time, i also play with 3D modeling and anything i 'm interested in!
+- My name is **Jackson** who studies Computer Science and Information Engineering in CGU(Taiwan Chang Gung Unviverty)
+- I'm focusing on Backend technical with Golang
+- Not only computer science fields i interested in, and also 3D Creating art field i.e: game modeling, 3d character modeling etc...
+
+
 
 <img align="right" alt="PNG" src="https://bytebucket.org/minux/goios/raw/01a32fb4abd84c75d9517c186be85205a385bf8d/doc/gopher/fiveyears.jpg" />
 

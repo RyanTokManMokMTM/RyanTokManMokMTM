@@ -1,8 +1,6 @@
-<!-- <h3 align="center">Golang programmer</h3>
 
---- 
- -->
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 
 - My name is **Jackson** who studies Computer Science and Information Engineering in CGU(Taiwan Chang Gung Unviverty)
 - I'm currently focusing on Backend technical with Golang,DevOps, and every thing about web development
@@ -10,8 +8,8 @@
 
 
 
-<img align="right" alt="PNG" src="https://pic1.zhimg.com/v2-df17cb3c3120a701b9841dfa7ffedfd2_1440w.jpg?source=172ae18b" />
-
+<!-- <img align="right" alt="PNG" src="https://pic1.zhimg.com/v2-df17cb3c3120a701b9841dfa7ffedfd2_1440w.jpg?source=172ae18b" />
+ -->
 
 <!-- <p align="center"><img src="https://mdimg.wxwenku.com/getimg/ccdf080c7af7e8a10e9b88444af983939e049e6e607c3da03772aac73059b882c9b79d1f3bc3640b77056d42927e4f18.jpg"/></p> -->
 <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>

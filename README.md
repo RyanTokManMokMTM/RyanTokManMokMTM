@@ -1,22 +1,18 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
+### My Personal Website : 
+https://ryantokmanmokmtm.github.io/personal-blogger/
 
-- My name is **Jackson** who studies Computer Science and Information Engineering in CGU(Taiwan Chang Gung Unviverty)
-- I'm currently focusing on Backend technical with Golang,DevOps, and every thing about web development
-- Not only computer science fields i interested in, and also 3D Creating art field i.e: game modeling, 3d character modeling etc...
-
-
-
-<!-- <img align="right" alt="PNG" src="https://pic1.zhimg.com/v2-df17cb3c3120a701b9841dfa7ffedfd2_1440w.jpg?source=172ae18b" />
- -->
-
-<!-- <p align="center"><img src="https://mdimg.wxwenku.com/getimg/ccdf080c7af7e8a10e9b88444af983939e049e6e607c3da03772aac73059b882c9b79d1f3bc3640b77056d42927e4f18.jpg"/></p> -->
+### Leetcode 
 <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>
+
+<!-- 
+
 <div width="100%" align="center">
   <img width="100%" src="https://raw.githubusercontent.com/adrianopteodoro/adrianopteodoro/gh-pages/gh-contrib-grid-snake.svg" />
 </div>
-
+ -->
 --- 
 
 <h3 align="left">Github-stats:</h3>
@@ -47,12 +43,6 @@
 <a href="https://www.leetcode.com/user9154d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9154d" height="30" width="40" /></a>
 <a href="https://discord.gg/AKA_Jackson#7554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AKA_Jackson#7554" height="30" width="40" /></a>
 </p>
-
-
-
-### MY 3D Design art work(Trying to learn more if i get some free time...)
-![Axe](https://upload.cc/i1/2021/07/10/8BkzIH.png)
-![human](https://i.ibb.co/ZB6mzy0/human.jpg)
 
 
 <!--

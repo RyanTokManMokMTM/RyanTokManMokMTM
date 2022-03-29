@@ -2,7 +2,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ### My Personal Website : 
-https://ryantokmanmokmtm.github.io/personal-blogger/
+https://ryantokmanmokmtm.github.io/
 
 ### Leetcode 
 <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>

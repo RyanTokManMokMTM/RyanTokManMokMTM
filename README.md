@@ -17,7 +17,7 @@ https://ryantokmanmokmtm.github.io/
 
 <h3 align="left">Github-stats:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby&layout=compact&langs_count=10&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTokManMokMTM&theme=great-gatsby&layout=compact&langs_count=10&count_private=true) -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RyanTokManMokMTM&theme=great-gatsby&show_icons=true&count_private=true)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryantokmanmokmtm&theme=great-gatsby" alt="ryantokmanmokmtm" /></p> -->
 

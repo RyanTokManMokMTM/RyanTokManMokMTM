@@ -5,13 +5,8 @@
 https://ryantokmanmokmtm.github.io/
 
 ### Leetcode 
-<img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/>
-
-<!-- 
-<div width="100%" align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/adrianopteodoro/adrianopteodoro/gh-pages/gh-contrib-grid-snake.svg" />
-</div>
- -->
+<!--  <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/> -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/_jacksontmm?theme=nord&font=Quicksand&ext=heatmap)
 --- 
 
 <h3 align="left">Github-stats:</h3>

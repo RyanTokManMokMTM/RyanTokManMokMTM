@@ -46,7 +46,6 @@ https://ryantokmanmokmtm.github.io/
 <a href="https://discord.gg/AKA_Jackson#7554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AKA_Jackson#7554" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img src="https://media.tenor.com/ZZXHjahQBWQAAAAC/hololive-shuba.gif"/></p>
 <!--
 **RyanTokManMokMTM/RyanTokManMokMTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

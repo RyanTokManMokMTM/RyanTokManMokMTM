@@ -2,11 +2,11 @@
 <p align="center"><img src="https://camo.githubusercontent.com/e2fed45eeddf5c4e8af379d928f6c2da3617a343291af1763c6af7bab347e431/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67"/></p>
 
 <!-- <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p> -->
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rancho&size=30&pause=1000&color=F76ECB&center=true&vCenter=true&multiline=true&width=435&lines=It%E2%80%99s+up+to+you+how+far+you%E2%80%99ll+go"/></p>
+
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><br></p>
 
-
-### My Personal Website : <img width=30 src="https://camo.githubusercontent.com/04628ae7f1e970a9b43c92f2fd597c120e0f5be105dec642e2e4a2c0e6515957/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f7368696e5f6368616e2e676966"/>
-https://ryantokmanmokmtm.github.io/
+### My Personal Website : [<img width=30 src="https://camo.githubusercontent.com/04628ae7f1e970a9b43c92f2fd597c120e0f5be105dec642e2e4a2c0e6515957/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f7368696e5f6368616e2e676966"/>](https://ryantokmanmokmtm.github.io/)
 
 ### State 
 <!--  <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/> -->

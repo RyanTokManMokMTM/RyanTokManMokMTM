@@ -10,9 +10,9 @@ https://ryantokmanmokmtm.github.io/
 
 ### State 
 <!--  <img src="https://stats.justsong.cn/api/leetcode/?username=_jacksontmm" style="box-shadow:none !importantl;"/> -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/_jacksontmm?theme=nord&font=Quicksand&ext=heatmap)
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"></img>
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/_jacksontmm?theme=nord&font=Quicksand&ext=heatmap) -->
+<img src="https://leetcard.jacoblin.cool/_jacksontmm?theme=nord&font=Quicksand&ext=heatmap"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 
 <!-- <h3 align="left">Github-stats:</h3>
 

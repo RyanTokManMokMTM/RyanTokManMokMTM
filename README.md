@@ -19,7 +19,9 @@
 <img src="https://leetcard.jacoblin.cool/_jacksontmm?theme=nord&font=Quicksand&ext=heatmap"/>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=_jacksontmm&theme=dark"/>
 
-
+ ### Current Working Project
+[chat-app-swift](https://github.com/RyanTokManMokMTM/swiftui-chat-app) | 
+[chat-server-golang](https://github.com/RyanTokManMokMTM/chat-app-server)
 
 
 

@@ -6,6 +6,11 @@
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><br></p>
 
+ ### Current Working Project
+[chat-app-swift](https://github.com/RyanTokManMokMTM/swiftui-chat-app) | 
+[chat-server-golang](https://github.com/RyanTokManMokMTM/chat-app-server)
+
+
 ### About Me
 * I'm a passionate person in software development or any fields that interesed me.
 * I like soving problem using programming language. Solving a problem can bring me happiness.
@@ -18,10 +23,6 @@
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/_jacksontmm?theme=nord&font=Quicksand&ext=heatmap) -->
 <img src="https://leetcard.jacoblin.cool/_jacksontmm?theme=nord&font=Quicksand&ext=heatmap"/>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=_jacksontmm&theme=dark"/>
-
- ### Current Working Project
-[chat-app-swift](https://github.com/RyanTokManMokMTM/swiftui-chat-app) | 
-[chat-server-golang](https://github.com/RyanTokManMokMTM/chat-app-server)
 
 
 

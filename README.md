@@ -3,9 +3,9 @@
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><br></p>
 
- ### Current Working Project
-[chat-app-swift](https://github.com/RyanTokManMokMTM/swiftui-chat-app) | 
-[chat-server-golang](https://github.com/RyanTokManMokMTM/chat-app-server)
+ ### Current Working Project - Nothing in progress
+~~[chat-app-swift](https://github.com/RyanTokManMokMTM/swiftui-chat-app) | 
+[chat-server-golang](https://github.com/RyanTokManMokMTM/chat-app-server) ~~
 
 
 ### About Me

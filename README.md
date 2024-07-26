@@ -4,7 +4,7 @@
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><br></p>
 
  ### Current Working Project - Nothing in progress
- --
+ Learning backend & AI
 
 ### About Me
 * I'm a passionate person in software development or any fields that interesed me.

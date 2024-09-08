@@ -4,8 +4,7 @@
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><br></p>
 
  ### Current Working Project - Nothing in progress
- Learning: ML tutorial from freecodecamp
-
+ Learning: [DIVE INTO DEEP LEARNING](https://d2l.ai/chapter_preliminaries/pandas.html)
 ### About Me
 * I'm a passionate person in software development or any fields that interesed me.
 * I like soving problem using programming language. Solving a problem can bring me happiness.

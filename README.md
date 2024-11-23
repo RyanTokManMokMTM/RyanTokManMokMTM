@@ -1,7 +1,7 @@
 <!-- <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p> -->
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rancho&size=30&pause=1000&color=F76ECB&center=true&vCenter=true&multiline=true&width=435&lines=It%E2%80%99s+up+to+you+how+far+you%E2%80%99ll+go"/></p>
 
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><br></p>
+<!--<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/><br></p> -->
 
  ### Current Working Project - Nothing in progress
  Learning: [DIVE INTO DEEP LEARNING](https://d2l.ai/chapter_preliminaries/pandas.html)

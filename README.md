@@ -7,7 +7,7 @@
  Learning: [DIVE INTO DEEP LEARNING](https://d2l.ai/chapter_preliminaries/pandas.html)
 ### About Me
 * I'm a passionate person in software development or any fields that interesed me.
-* I like soving problem using programming language. Solving a problem can bring me happiness.
+* I like solving problem using programming language. Solving a problem can bring me happiness.
 * I also like music, running, shopping, chatting with my friend ,watching movie and reading some interesing books.
 
 ### My Personal Website : [💖Jackson.tmm](https://ryantokmanmokmtm.github.io/)
